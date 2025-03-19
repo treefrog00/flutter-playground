@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047617292357",
+    "project_id": "card-game-e0f0c",
+    "storage_bucket": "card-game-e0f0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047617292357:android:122e451f8bde68ec34fb2c",
+        "android_client_info": {
+          "package_name": "com.example.card"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2toZXX6xKWDnVV0iaX42-wKCvVpXBr38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
