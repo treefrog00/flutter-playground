@@ -11,7 +11,7 @@ plugins {
 android {
     namespace = "com.example.flutterfire_google_signup"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "29.0.13113456"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -45,5 +45,3 @@ android {
 flutter {
     source = "../.."
 }
-
-android.ndkVersion = "29.0.13113456"

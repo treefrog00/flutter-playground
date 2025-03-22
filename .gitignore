@@ -170,3 +170,4 @@ app.*.symbols
 # https://stackoverflow.com/questions/71432691/flutter-should-firebase-options-dart-be-added-to-gitignore
 **/firebase_options.dart
 **/google-services.json
+    
